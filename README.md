@@ -1,9 +1,10 @@
 Refer to the below image.
 
-![chat-screen-v1](https://github.com/pavankumarlanke/ChatPage/assets/109908347/24473a05-3fdc-4210-a644-1cd8faa885ec)
+![image](https://github.com/pavankumarlanke/ChatPage/assets/109908347/4be7a887-90a4-49a4-bbf3-ab886bd34c8c)
 
 Note:
 Try to achieve the design as close as possible.
+
 
 
 Resources
